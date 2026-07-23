@@ -6,10 +6,10 @@ This project delivers a comprehensive end-to-end data analysis on credit card cu
 ---
 
 ## 📑 Project Preview & Report
-![Dashboard Preview](./dashboard-preview.png)
+![Dashboard Preview](MySkill_CC_Live.jpg)
 * 📄 **[View Full Credit Card PDF Report](https://drive.google.com/file/d/1MQpPSI7doPpBXc5US1VRDs7PByeAvtm8/view?usp=sharing)**
 * 🔗 **[View Interactive Dashboard (Google Looker Studio)](https://datastudio.google.com/reporting/03f902b7-af93-4cfa-9b10-2b5d5ad438a3)**
-* 📄 **Data Source:** [MySkill - E-learning](https://drive.google.com/file/d/1SDAUYNjyY9QNOkmsuaB9S7plTonvnLoE/view?usp=sharing)
+* 📄 **[Data Source: MySkill - E-learning](https://drive.google.com/file/d/1SDAUYNjyY9QNOkmsuaB9S7plTonvnLoE/view?usp=sharing)** 
 * 🛠️ **Tools Used:** Google Looker Studio, Data Visualization, Credit Risk Profiling.
 
 ---
